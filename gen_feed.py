@@ -20,15 +20,16 @@ for ep in reversed(json.load(open(f"{d}/episodes.json"))):
 xml=f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sean 每日新闻播客</title>
+    <title>Sean Podcast</title>
     <link>{base}/</link>
     <atom:link href="{base}/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-cn</language>
-    <description>私人每日新闻播客，早晚两档，双人对谈，五分钟听懂世界。</description>
-    <itunes:author>News Bot</itunes:author>
-    <itunes:summary>私人每日新闻播客，早晚两档，双人对谈。</itunes:summary>
+    <description>Sean 的个人播客：每日新闻简报，以及更多内容。Sean's personal podcast: daily news briefings and more.</description>
+    <itunes:author>Sean</itunes:author>
+    <itunes:summary>Sean 的个人播客：每日新闻简报，以及更多内容。</itunes:summary>
     <itunes:image href="{base}/cover.jpg"/>
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>

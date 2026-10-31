@@ -1,0 +1,4 @@
+build/segs/
+build/*.mp3
+build/*.png
+build/*.log

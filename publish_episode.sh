@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 # Usage: publish_episode.sh <mp3> <title> <description> <morning|evening> [YYYY-MM-DD]
+# Audio convention: edge-tts male zh-CN-YunyangNeural + female zh-CN-XiaoxiaoNeural at rate +10%
+#   (build/make_audio.py <script.txt> <out.mp3> [+10%] builds it from a 男：/女： script).
 # Needs env GH_PODCAST_TOKEN (fine-grained, Contents RW on seanexk/sean-podcast).
 set -euo pipefail
 MP3="$1"; TITLE="$2"; DESC="$3"; SLOT="$4"; DATE="${5:-$(TZ=Asia/Shanghai date +%F)}"
