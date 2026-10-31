@@ -27,7 +27,7 @@ xml=f"""<?xml version="1.0" encoding="UTF-8"?>
     <description>Sean 的个人播客：每日新闻简报，以及更多内容。Sean's personal podcast: daily news briefings and more.</description>
     <itunes:author>Sean</itunes:author>
     <itunes:summary>Sean 的个人播客：每日新闻简报，以及更多内容。</itunes:summary>
-    <itunes:image href="{base}/cover.jpg"/>
+    <itunes:image href="{base}/cover-v2.jpg"/>
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
