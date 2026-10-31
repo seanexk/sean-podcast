@@ -24,5 +24,15 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>10月31日 晚间新闻</title>
+      <description>10月制造业PMI回落、载人登月乘组计划，美国法官叫停司法部对选举官员施压，伊朗称击落美军无人机。</description>
+      <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-10-31-evening.mp3" length="5305964" type="audio/mpeg"/>
+      <guid isPermaLink="false">sean-news-2026-10-31-evening</guid>
+      <pubDate>Sat, 31 Oct 2026 18:00:00 +0800</pubDate>
+      <itunes:duration>04:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
