@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sean 每日新闻播客</title>
+    <link>https://seanexk.github.io/sean-podcast/</link>
+    <atom:link href="https://seanexk.github.io/sean-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <description>私人每日新闻播客，早晚两档，双人对谈，五分钟听懂世界。</description>
+    <itunes:author>News Bot</itunes:author>
+    <itunes:summary>私人每日新闻播客，早晚两档，双人对谈。</itunes:summary>
+    <itunes:image href="https://seanexk.github.io/sean-podcast/cover.jpg"/>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>10月31日 早间新闻</title>
+      <description>双人对谈，约4分钟带你过一遍10月31日早间要闻。</description>
+      <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-10-31-morning.mp3" length="4988909" type="audio/mpeg"/>
+      <guid isPermaLink="false">sean-news-2026-10-31-morning</guid>
+      <pubDate>Sat, 31 Oct 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>04:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
