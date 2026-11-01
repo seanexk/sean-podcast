@@ -15,6 +15,16 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>11月1日 早间新闻</title>
+      <description>11月1日早间新闻播客</description>
+      <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-01-morning.mp3" length="3412268" type="audio/mpeg"/>
+      <guid isPermaLink="false">sean-news-2026-11-01-morning</guid>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>03:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>10月31日 早间新闻</title>
       <description>双人对谈，约4分钟带你过一遍10月31日早间要闻。</description>
       <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-10-31-morning.mp3" length="4084758" type="audio/mpeg"/>
