@@ -15,6 +15,16 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>11月2日 早间新闻</title>
+      <description>佛州公务机坠入居民区九人遇难，美国中期选举前民主党内又现倒戈；安东内利成为史上最年轻 F1 世界冠军，孙颖莎蒙彼利埃夺冠。</description>
+      <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-02-morning.mp3" length="3746348" type="audio/mpeg"/>
+      <guid isPermaLink="false">sean-news-2026-11-02-morning</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>03:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>11月1日 早间新闻</title>
       <description>11月1日早间新闻播客</description>
       <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-01-morning.mp3" length="3412268" type="audio/mpeg"/>
