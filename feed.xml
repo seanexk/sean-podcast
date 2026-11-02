@@ -25,6 +25,16 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>11月2日 晚间新闻</title>
+      <description>11月2日晚间新闻：美国中期选举最后民调、特朗普与内塔尼亚胡通话谈伊朗、进博会期间上海交通管制等。</description>
+      <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-02-evening.mp3" length="2479916" type="audio/mpeg"/>
+      <guid isPermaLink="false">sean-news-2026-11-02-evening</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 +0800</pubDate>
+      <itunes:duration>02:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>11月1日 早间新闻</title>
       <description>11月1日早间新闻播客</description>
       <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-01-morning.mp3" length="3412268" type="audio/mpeg"/>
