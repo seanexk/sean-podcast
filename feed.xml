@@ -25,6 +25,16 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>11月3日 晚间新闻</title>
+      <description>美国中期选举今天投票，生活成本成选民焦点；央行上调外汇存款准备金率，进博会开幕在即。</description>
+      <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-03-evening.mp3" length="2854316" type="audio/mpeg"/>
+      <guid isPermaLink="false">sean-news-2026-11-03-evening</guid>
+      <pubDate>Tue, 03 Nov 2026 18:00:00 +0800</pubDate>
+      <itunes:duration>02:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>11月2日 早间新闻</title>
       <description>11月2日早间新闻播客</description>
       <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-02-morning.mp3" length="3746348" type="audio/mpeg"/>
