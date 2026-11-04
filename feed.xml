@@ -25,6 +25,16 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>11月4日 晚间新闻</title>
+      <description>美国中期选举民主党拿下参众两院；A股强势反弹，科创50涨近10%；进博会明天开幕。</description>
+      <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-04-evening.mp3" length="2889260" type="audio/mpeg"/>
+      <guid isPermaLink="false">sean-news-2026-11-04-evening</guid>
+      <pubDate>Wed, 04 Nov 2026 18:00:00 +0800</pubDate>
+      <itunes:duration>03:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>11月3日 早间新闻</title>
       <description>11月3日早间新闻：美国中期选举投票日、美军打击伊朗格什姆岛、证监会稳市措施与央行降息等。</description>
       <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-03-morning.mp3" length="3093548" type="audio/mpeg"/>
