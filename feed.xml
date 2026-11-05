@@ -15,6 +15,16 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>11月5日 早间新闻</title>
+      <description>美股选后大涨、油价下跌，进博会开幕</description>
+      <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-05-morning.mp3" length="2371628" type="audio/mpeg"/>
+      <guid isPermaLink="false">sean-news-2026-11-05-morning</guid>
+      <pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>02:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>11月4日 早间新闻</title>
       <description>11月4日早间新闻：美国中期选举投票结束、特朗普宣布停止对以色列年度军援、东航原董事长刘绍勇一审获刑等。</description>
       <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-04-morning.mp3" length="3012140" type="audio/mpeg"/>
