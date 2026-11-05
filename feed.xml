@@ -25,6 +25,16 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>11月5日 晚间新闻</title>
+      <description>今晚重点：民主党参众两院大胜后万斯直言输就输在这场战争，国内马兴瑞被提起公诉、进博会今天开幕。</description>
+      <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-05-evening.mp3" length="3810860" type="audio/mpeg"/>
+      <guid isPermaLink="false">sean-news-2026-11-05-evening</guid>
+      <pubDate>Thu, 05 Nov 2026 18:00:00 +0800</pubDate>
+      <itunes:duration>03:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>11月4日 早间新闻</title>
       <description>11月4日早间新闻：美国中期选举投票结束、特朗普宣布停止对以色列年度军援、东航原董事长刘绍勇一审获刑等。</description>
       <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-04-morning.mp3" length="3012140" type="audio/mpeg"/>
