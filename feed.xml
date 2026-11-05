@@ -15,6 +15,16 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>11月6日 早间新闻</title>
+      <description>美股选后急转直下，纳指大跌；国内公布2027年放假安排，春节再放九天。</description>
+      <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-06-morning.mp3" length="4126124" type="audio/mpeg"/>
+      <guid isPermaLink="false">sean-news-2026-11-06-morning</guid>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>04:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>11月5日 早间新闻</title>
       <description>美股选后大涨、油价下跌，进博会开幕</description>
       <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-05-morning.mp3" length="2371628" type="audio/mpeg"/>
