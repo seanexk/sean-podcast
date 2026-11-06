@@ -15,6 +15,16 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>11月7日 早间新闻</title>
+      <description>特朗普选后换掉白宫幕僚长；国内启动暴雪四级应急响应；肯尼亚邪教头目因近二百名儿童遇害被判二百年。</description>
+      <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-07-morning.mp3" length="2862380" type="audio/mpeg"/>
+      <guid isPermaLink="false">sean-news-2026-11-07-morning</guid>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>02:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>11月6日 早间新闻</title>
       <description>美股选后急转直下，纳指大跌；国内公布2027年放假安排，春节再放九天。</description>
       <enclosure url="https://seanexk.github.io/sean-podcast/episodes/2026-11-06-morning.mp3" length="4126124" type="audio/mpeg"/>
